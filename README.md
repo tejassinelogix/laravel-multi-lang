@@ -1,9 +1,6 @@
 # Multi Language with CRUD Operations
 <ul>
   <li>Implement Multiple Language English and Hindi Language into Laravel Project </li>
-  <li>Use Migration for tables creation </li>
-  <li>Use Factory and Seeder for dummy data create </li>
-  <li>Use Request class for validations </li>
   <li><b>Category Module CRUD</b></li>
   <li>Category Fields</li>
   <li>Category Name : [ Validation Rules : Accept only strings and space, Required ] </li>
@@ -30,6 +27,8 @@
  <li>Reuse the common codes using some helper class function etc</li>
  <li>Avoid unnecessary loops if not requires</li>
  <li>Avoid unnecessary variable creations</li>
+ <li>Optimize database tables</li>
+ <li>Avoid joins queries if not requires</li>
+ <li>Avoid sub queries if not requires</li>
+ <li> More information please read document <a href="https://drive.google.com/drive/folders/1_nxEPw01QnVkVQfZ2WtXyeX7NcQ6ENdh" target="_blank">Code Standard</a>
 </ol>
-
-
