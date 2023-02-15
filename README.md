@@ -1,4 +1,15 @@
-# Multi Language with CRUD Operations
+# Overview
+Laravel multiple language website english and hindi language with crud operations, By default english language will be consider and language switcher should be option.
+
+Server Requirements
+=====================================
+<ul>
+  <li>PHP Version => 7.4 or higher</li>
+  <li>Laravel Version => 8 or higher</li>
+  <li>MySQl => 5.7 or higher</li>
+</ul>
+
+# Project Requirement : Multi Language with CRUD Operations
 <ul>
   <li>Implement Multiple Language English and Hindi Language into Laravel Project </li>
   <li>Set Default language English if not selected by user </li>
