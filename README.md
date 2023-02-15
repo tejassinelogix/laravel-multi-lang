@@ -1,5 +1,5 @@
 # Overview
-Laravel multiple language website english and hindi language with crud operations, By default english language will be consider and language switcher should be option.
+Laravel multiple language website english and hindi with category and sub category crud operations, By default english language will be consider and language switcher should be option.
 
 Server Requirements
 =====================================
@@ -44,5 +44,5 @@ Server Requirements
  <li>Optimize database tables</li>
  <li>Avoid MySQL joins queries if not required</li>
  <li>Avoid MySQL sub queries if it does not require</li>
- <li>For more information, please read the document <a href="https://drive.google.com/drive/folders/1_nxEPw01QnVkVQfZ2WtXyeX7NcQ6ENdh" target="_blank">Code Standard</a>
+ <li>For more information, please read the document <a href="https://drive.google.com/drive/folders/1_nxEPw01QnVkVQfZ2WtXyeX7NcQ6ENdh" target='_blank'>Code Standard</a>
 </ol>
