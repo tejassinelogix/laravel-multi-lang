@@ -25,8 +25,10 @@
  <li>Use camel case for function name and variable name. E.g getProductDetails() , $categoryDetails </li>
  <li>Comment it above function with short detail of that function use or purpose of function creation </li>
  <li>Reuse the common codes using some helper class function etc</li>
+ <li>Remove unnecessary codes and debug points not needed</li>
  <li>Avoid unnecessary loops if not requires</li>
  <li>Avoid unnecessary variable creations</li>
+ <li>Use PHP design patterns where required <a href="https://refactoring.guru/design-patterns/php" target="_blank">Database Normalization</a></li>    <li>Normalize database tables where required <a href="https://www.guru99.com/database-normalization.html" target="_blank">Database Normalization</a></li>
  <li>Optimize database tables</li>
  <li>Avoid joins queries if not requires</li>
  <li>Avoid sub queries if not requires</li>
