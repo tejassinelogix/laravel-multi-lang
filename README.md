@@ -9,7 +9,7 @@ Server Requirements
   <li>MySQl => 5.7 or higher</li>
 </ul>
 
-# Project Requirement : Multi Language with CRUD Operations
+# Project Requirement
 <ul>
   <li>Implement Multiple Language English and Hindi Language into Laravel Project </li>
   <li>Set Default language English if not selected by user </li>
