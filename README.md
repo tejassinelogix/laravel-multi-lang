@@ -1,5 +1,5 @@
 # Overview
-Laravel multiple language website english and hindi with category and sub category crud operations, By default english language will be consider and language switcher should be option.
+Laravel multiple language website with english and hindi. Basic category and sub category modules CRUD operations, By default english language will be consider and language switcher should be select option at top nav bar.
 
 Server Requirements
 =====================================
